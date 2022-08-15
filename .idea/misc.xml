@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/drawable/backgroundsettings.xml" value="0.1785" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_choose.xml" value="0.1" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_name.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_scene.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_settings.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_splash.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/activity_two_name.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/dialog_layout.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/dialog_layout_exit.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shant/Downloads/TicTacToe/app/src/main/res/layout/spinner_item.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>ComplianceLintAndroid</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
